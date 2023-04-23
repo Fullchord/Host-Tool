@@ -1,0 +1,154 @@
+select_host_country = {
+	name = "Select Host for Host Tool"
+	group = "Host Options"
+	icon = "GFX_volunteers"
+	default = {
+		name = NONE
+		text = "Disabled"
+		desc = "Host tool is disabled and no host country is selected"
+	}
+	option = {
+		name = GER
+		text = "Germany"
+		desc = ""
+	}
+	option = {
+		name = ITA
+		text = "Italy"
+		desc = ""
+	}
+	option = {
+		name = ROM
+		text = "Romania"
+		desc = ""
+	}
+	option = {
+		name = HUN
+		text = "Hungary"
+		desc = ""
+	}
+	option = {
+		name = BUL
+		text = "Bulgaria"
+		desc = ""
+	}
+	option = {
+		name = FIN
+		text = "Finland"
+		desc = ""
+	}
+	option = {
+		name = ENG
+		text = "Great Britain"
+		desc = ""
+	}
+	option = {
+		name = USA
+		text = "USA"
+		desc = ""
+	}
+	option = {
+		name = CAN
+		text = "Canada"
+		desc = ""
+	}
+	option = {
+		name = SAF
+		text = "South Africa"
+		desc = ""
+	}
+	option = {
+		name = RAJ
+		text = "British Raj"
+		desc = ""
+	}
+	option = {
+		name = AST
+		text = "Australia"
+		desc = ""
+	}
+	option = {
+		name = JAP
+		text = "Japan"
+		desc = ""
+	}
+	option = {
+		name = SOV
+		text = "Soviet Union"
+		desc = ""
+	}
+	option = {
+		name = FRA
+		text = "France"
+		desc = ""
+	}
+	option = {
+		name = SPR
+		text = "Spain"
+		desc = ""
+	}
+	option = {
+		name = BRA
+		text = "Brazil"
+		desc = ""
+	}
+	option = {
+		name = SWE
+		text = "Sweden"
+		desc = ""
+	}
+	option = {
+		name = AUS
+		text = "Austria"
+		desc = ""
+	}
+	option = {
+		name = SWI
+		text = "Switzerland"
+		desc = ""
+	}
+	option = {
+		name = HOL
+		text = "Netherlands"
+		desc = ""
+	}
+	option = {
+		name = TUR
+		text = "Turkey"
+		desc = ""
+	}
+	option = {
+		name = GRE
+		text = "Greece"
+		desc = ""
+	}
+	option = {
+		name = PER
+		text = "Iran"
+		desc = ""
+	}
+	option = {
+		name = ARG
+		text = "Argentina"
+		desc = ""
+	}
+	option = {
+		name = POR
+		text = "Portugal"
+		desc = ""
+	}
+	option = {
+		name = MEX
+		text = "Mexico"
+		desc = ""
+	}
+	option = {
+		name = CZE
+		text = "Czechoslovakia"
+		desc = ""
+	}
+	option = {
+		name = POL
+		text = "Poland"
+		desc = ""
+	}
