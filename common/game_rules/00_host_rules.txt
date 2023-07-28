@@ -2,7 +2,7 @@ select_host_country = {
 	name = "Select Host for Host Tool"
 	group = "HOST TOOL OPTIONS"
 	icon = "GFX_volunteers"
-	option = {
+	default = {
 		name = NONE
 		text = "Disabled"
 		desc = "Host tool is disabled and no host country is selected"
@@ -217,7 +217,7 @@ select_host_country = {
 	}
 
 
-	default = {
+	option = {
 		name = GER
 		text = "Germany"
 		desc = ""
