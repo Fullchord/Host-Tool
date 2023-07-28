@@ -1,0 +1,24 @@
+Copyright (C) Fullchord - All Rights Reserved.
+
+THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
+UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
+
+The receipt or possession of the source code and/or any parts thereof does not convey or imply any right to use them
+for any purpose other than the purpose for which they were provided to you.
+
+The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to
+the warranties of merchantability, fitness for a particular purpose and non infringement.
+In no event shall the authors or copyright holders be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software
+or the use or other dealings in the software.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+--IMPORTANT--
+Contributor & Developer Agreement:
+If a contributor or developer creates either original[2] assets, code, or localization for 'Host Tool' and that work is published,[1] 'Host Tool' retains the right to use that material even if said contributor or developer no longer wishes to be or have said work affiliated with 'Host Tool' under opensource development principles.
+Once said assets, code, or localization is published,[1] the contributor or developer cannot invoke Host Tool Modding Community guidelines as a basis for removal of work.
+The above stipulations do not apply to code or assets that have been made for other Host Tool Modifications, other forms of media, or work that derives from copyrighted material as defined by either United States or European Union law that is included in 'Host Tool'[3]
+The contributor or developer may ask to withdraw work if said work isn't published[1] yet. 
+To reiterate: 'Host Tool' retains the right to use all original contributor and developer work made for 'Host Tool' Even if said contributor and developer wishes to be no longer affiliated with Host Tool and asks for removal of assets, code, or localization made by them. Such requests are considered meritless under this agreement.
+If you want to discuss particulars of this agreement, contact Fullchord.

@@ -3,6 +3,6 @@ picture="thumbnail.png"
 tags={
 	"Utilities"
 }
-name="Host Tool"
+name="Host Tool - [DEV]"
 supported_version="1.12.*"
 remote_file_id="2988518134"
