@@ -261,6 +261,8 @@ scripted_gui = {
 		}
 		triggers = {
 
+			
+
 			observer_click_enabled = {
 				owner = {
 					is_ai = no
