@@ -38,6 +38,9 @@
  TRANSFER_HOSTOOL:0 "§HTransfer Host Tool§!\nSelected Country is given the Host Tool\n\n"
  TRANSFER_HOSTOOL_DELAYED:0 ""
 
+ GIVE_COMMAND_POWER_BUTTON:0 "§HGive Command Power§!\nEvery country is given max£command_power Command Power\n\n"
+ GIVE_COMMAND_POWER_BUTTON_DELAYED:0 ""
+
  PINGTOOL:0 "§HAI Reenabler§!\nMark, then click (WiP)\n\n"
  PINGTOOL_DELAYED:0 ""
 

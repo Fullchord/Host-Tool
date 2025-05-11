@@ -147,6 +147,14 @@ guiTypes = {
 			pdx_tooltip_delayed = "TRANSFER_HOSTOOL_DELAYED"
 			scale = 0.65
 		}
+		buttonType = {
+			name = "give_command_power" 
+			position = {x=422 y=255}	
+			spriteType = "GFX_cp_icon"
+			pdx_tooltip = "GIVE_COMMAND_POWER_BUTTON"
+			pdx_tooltip_delayed = "GIVE_COMMAND_POWER_BUTTON_DELAYED"
+			scale = 0.41
+		}
 
 ####################################################################
 
@@ -554,7 +562,7 @@ guiTypes = {
 		containerWindowType = {
 		name = "st_state_manager_powers_container"
 		position = {x=230 y=100}
-		size = { width=600 height=300}
+		size = { width=300 height=100}
 
 		fade_time = 300
 		fade_type = linear
@@ -562,16 +570,16 @@ guiTypes = {
 		#alwaystransparent=yes
 		background = {
 			name = "Background"
-			spriteType = "GFX_BPT_areadef_conf_bg"
+			spriteType = "GFX_st_background"
 		}
 
 		instantTextboxType = {
 			name = "title"
-			position = {x=14 y=6}
+			position = {x=14 y=4}
 			Orientation = "Centre"
 			font = "hoi_24header"
 			text = "[This.GetName]"
-			maxWidth = 200
+			maxWidth = 244
 			maxHeight = 23
 			format = centre
 		}
@@ -610,7 +618,7 @@ guiTypes = {
 		#}
 		buttonType = {
 			name = "clear_all_markings" 
-			position = {x=180 y=30}
+			position = {x=180 y=32}
 			spriteType = "GFX_global_alert_icons"
             		frame = 38
 			pdx_tooltip = "CLEAR_ALL_MARKINGS"

@@ -192,6 +192,15 @@ scripted_gui = {
 				}
 			}
 
+			give_command_power_click = {
+				every_country = {
+					add_command_power = 250
+				}
+				GER = {
+					news_event={id=hosttool.10}
+				}
+			}
+
 			annex_country_click = {
 
 				owner={
